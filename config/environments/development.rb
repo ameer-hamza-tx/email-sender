@@ -85,7 +85,7 @@ Rails.application.configure do
   # config.action_cable.disable_request_forgery_protection = true
   config.action_mailer.smtp_settings = {
     :user_name => "ameerhamza112281@gmail.com",
-    :password => "03077170253",
+    :password => "usesecretsecretpassword",
     :domain => 'mail.google.com',
     :address => 'smtp.gmail.com',
     :port => 587,

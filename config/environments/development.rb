@@ -85,9 +85,9 @@ Rails.application.configure do
   # config.action_cable.disable_request_forgery_protection = true
   config.action_mailer.smtp_settings = {
     :user_name => "ameerhamza112281@gmail.com",
-    :password => "03226518570",
-    :domain => 'gmail.com',
-    :address => 'smtp.sendgrid.net',
+    :password => "03077170253",
+    :domain => 'mail.google.com',
+    :address => 'smtp.gmail.com',
     :port => 587,
     :authentication => :plain,
     :enable_starttls_auto => true
